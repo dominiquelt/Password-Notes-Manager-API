@@ -1,0 +1,22 @@
+# python stuff
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+
+# environments
+venv/
+.venv/
+
+# env files
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
